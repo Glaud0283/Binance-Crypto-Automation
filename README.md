@@ -1,2 +1,0 @@
-# cwl
-CWL Crypto Automation
